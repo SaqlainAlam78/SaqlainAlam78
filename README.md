@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Saqlain Alam
-- ✌️ I’m growing just like a fine wine
+- ✌️ Aim is to grow just like a fine wine
 - 👀 I’m interested/learning in Data Science
 - 🌱 I’m currently working in TCS
 - 📫 How to reach me :
